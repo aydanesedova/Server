@@ -131,7 +131,7 @@ nav .homeListMain .homeList .btnAll .login:hover {
   background-position: center;
   background-repeat: no-repeat;
   width: 100%;
-  height: 600px;
+  min-height: 600px;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -141,7 +141,7 @@ nav .homeListMain .homeList .btnAll .login:hover {
   align-items: center;
   justify-content: start;
   flex-direction: column;
-  width: 100%;
+  min-width: 100%;
   height: 300px;
 }
 #customerSupport .customerSupportTxt h1 {
@@ -156,7 +156,7 @@ nav .homeListMain .homeList .btnAll .login:hover {
 }
 #customerSupport .customerSupportTxt .customerSupportBtn {
   width: 40%;
-  height: 20%;
+  min-height: 20%;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -201,7 +201,7 @@ nav .homeListMain .homeList .btnAll .login:hover {
 
 #differentHosting {
   width: 100%;
-  height: 712px;
+  min-height: 712px;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -260,7 +260,7 @@ nav .homeListMain .homeList .btnAll .login:hover {
 
 #satisfiedClients {
   width: 100%;
-  height: 600px;
+  min-height: 600px;
   background-image: url(/assets/images/hero_bg_3.jpg);
   background-position: center;
   background-size: cover;
@@ -308,7 +308,7 @@ nav .homeListMain .homeList .btnAll .login:hover {
 
 #WhyChooseUs {
   width: 100%;
-  height: 857px;
+  min-height: 857px;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -374,7 +374,7 @@ nav .homeListMain .homeList .btnAll .login:hover {
 #testimonials {
   width: 100%;
   background-color: #F8F9FA;
-  height: 634px;
+  min-height: 634px;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -425,7 +425,7 @@ nav .homeListMain .homeList .btnAll .login:hover {
 
 #companyAbout {
   width: 100%;
-  height: 654px;
+  min-height: 654px;
   display: flex;
   align-items: center;
   justify-content: center;
